@@ -1,1 +1,0 @@
-# Program-to-calculate-formulas-of-solids-
